@@ -1,5 +1,4 @@
 #include <parchis.hpp>
-#include <iostd>
 
 using namespace std;
 
